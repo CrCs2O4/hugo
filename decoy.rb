@@ -3,7 +3,7 @@ class HelloWorld
       @name = name.capitalize
    end
    def speak
-      puts "Hello #{@name}670!"
+      puts "Hello #{@name}671!"
    end
 end
 

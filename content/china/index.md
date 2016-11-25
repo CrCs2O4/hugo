@@ -1,10 +1,11 @@
 +++
-albumthumb = "https://images.unsplash.com/photo-1478427433968-28045906c1dd?dpr=2&auto=format&fit=crop&w=900&q=50&cs=tinysrgb"
+albumthumb = "https://source.unsplash.com/WLUHO9A_xik/600x300"
 date = "2016-11-25T11:43:43+03:00"
 title = "china"
 
 +++
 
-{{< photo full="https://images.unsplash.com/photo-1478427433968-28045906c1dd?dpr=2&auto=format&fit=crop&w=900&q=50&cs=tinysrgb" thumb="https://images.unsplash.com/photo-1478427433968-28045906c1dd?dpr=2&auto=format&fit=crop&w=500&q=50&cs=tinysrgb" alt="" phototitle="SOME TITLE" description="PASTE THIS SHORTCODE FOR EVERY IMAGE YOU HAVE IN THIS GALLERY">}}
+{{< photo full="https://source.unsplash.com/WLUHO9A_xik/1600x900" thumb="https://source.unsplash.com/WLUHO9A_xik/600x300" alt="" phototitle="SOME TITLE" description="SOME SHORT DESCRIPTION. MARKDOWN **SUPPORTED**">}}
 
-{{< photo full="https://images.unsplash.com/photo-1478427433968-28045906c1dd?dpr=2&auto=format&fit=crop&w=767&h=NaN&q=80&cs=tinysrgb&crop=" thumb="https://images.unsplash.com/photo-1478427433968-28045906c1dd?dpr=2&auto=format&fit=crop&w=900&q=50&cs=tinysrgb" alt="" phototitle="SOME TITLE" description="SOME SHORT DESCRIPTION. MARKDOWN **SUPPORTED**">}}
+{{< photo full="https://source.unsplash.com/vpNtiucFhck/1600x900/" thumb="https://source.unsplash.com/vpNtiucFhck/600x300/" alt="" phototitle="SOME TITLE" description="PASTE THIS SHORTCODE FOR EVERY IMAGE YOU HAVE IN THIS GALLERY">}}
+

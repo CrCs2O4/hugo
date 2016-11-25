@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>China-rsses on Phugo</title>
+    <link>/roll-rubygem/china/index.xml</link>
+    <description>Recent content in China-rsses on Phugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Nov 2016 11:43:43 +0300</lastBuildDate>
+    <atom:link href="/roll-rubygem/china/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>china</title>
+      <link>/roll-rubygem/china/</link>
+      <pubDate>Fri, 25 Nov 2016 11:43:43 +0300</pubDate>
+      
+      <guid>/roll-rubygem/china/</guid>
+      <description>&lt;article class=&#34;thumb&#34;&gt;
+	&lt;a href=&#34;https://images.unsplash.com/photo-1478427433968-28045906c1dd?dpr=2&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=900&amp;amp;q=50&amp;amp;cs=tinysrgb&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://images.unsplash.com/photo-1478427433968-28045906c1dd?dpr=2&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=500&amp;amp;q=50&amp;amp;cs=tinysrgb&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+	&lt;h2&gt;SOME TITLE&lt;/h2&gt;
+	&lt;p&gt;PASTE THIS SHORTCODE FOR EVERY IMAGE YOU HAVE IN THIS GALLERY&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+	&lt;a href=&#34;https://images.unsplash.com/photo-1478427433968-28045906c1dd?dpr=2&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=767&amp;amp;h=NaN&amp;amp;q=80&amp;amp;cs=tinysrgb&amp;amp;crop=&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://images.unsplash.com/photo-1478427433968-28045906c1dd?dpr=2&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=900&amp;amp;q=50&amp;amp;cs=tinysrgb&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+	&lt;h2&gt;SOME TITLE&lt;/h2&gt;
+	&lt;p&gt;SOME SHORT DESCRIPTION. MARKDOWN &lt;strong&gt;SUPPORTED&lt;/strong&gt;&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

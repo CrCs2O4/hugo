@@ -1,5 +1,5 @@
 # Settings
-baseurl = "https://crcs2o4.github.io/roll-rubygem/"
+baseurl = "https://crcs2o4.github.io/hugo/"
 languageCode = "en-us"
 title = "Phugo"
 theme = "phugo"
@@ -9,7 +9,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     # Meta
     description = "Phugo - Photo Gallery on Hugo"
-    author = "aerohub"
+    author = "Chromium"
     keywords = "phugo, hugo, photogallery, photoblog, hugo theme"
 
     # Headerbar links

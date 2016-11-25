@@ -1,7 +1,7 @@
 +++
-albumthumb = "https://images.unsplash.com/photo-1478427433968-28045906c1dd?dpr=2&auto=format&fit=crop&w=900&q=50&cs=tinysrgb"
+albumthumb = "https://images.unsplash.com/photo-1479660095429-2cf4e1360472?dpr=2&auto=format&fit=crop&w=900&q=50&cs=tinysrgb"
 date = "2016-11-25T11:43:43+03:00"
-title = "index"
+title = "Thailand"
 
 +++
 

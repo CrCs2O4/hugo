@@ -1,5 +1,5 @@
 # Settings
-baseurl = "/roll-rubygem/"
+baseurl = "https://crcs2o4.github.io/roll-rubygem/"
 languageCode = "en-us"
 title = "Phugo"
 theme = "phugo"
